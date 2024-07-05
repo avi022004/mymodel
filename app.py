@@ -23,7 +23,7 @@ with col1:
 	st.text("Radio")
 	rd = st.slider("Adver. Spends on Radio", 1.0, 10000.0, 0.5)
 	st.text("NewsPaper")
-	newspaper = st.slider("Adver. Spends on NewsPaper", 1.0,10000.0,0.5)
+	newspaper = st.slider("Adver. Spends on News Paper", 1.0, 10000.0, 0.5)
 
 
 st.text('')
